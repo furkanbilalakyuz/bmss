@@ -1,0 +1,45 @@
+{
+	"folders": [
+		{
+			"path": "ATTINYPIDTuning"
+		},
+		{
+			"path": "ATTINYCellModuleTestPrg"
+		},
+		{
+			"path": "ESPController"
+		},
+		{
+			"path": "ATTINYCellModule"
+		},
+		{
+			"path": "ATTINYCellModuleBlinky"
+		},
+		{
+			"path": "ESP32BoardTest"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"random": "cpp",
+			"*.tcc": "cpp",
+			"list": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"vector": "cpp",
+			"regex": "cpp",
+			"array": "cpp",
+			"deque": "cpp",
+			"memory": "cpp",
+			"initializer_list": "cpp",
+			"functional": "cpp",
+			"bitset": "cpp",
+			"xloctime": "cpp",
+			"algorithm": "cpp",
+			"limits": "cpp",
+			"xlocale": "cpp",
+			"xutility": "cpp",
+			"istream": "cpp"
+		}
+	}
+}
